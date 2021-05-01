@@ -1,4 +1,21 @@
-@charset "UTF-8";
+@charset "UTF-8";.custom-table td,.custom-table th{padding:15px;border-bottom:1px solid #ebebeb;border-top:1px solid #ebebeb;font-size:120%}.custom-table td:first-child,.custom-table th:first-child{width:50%}.custom-table td:not(:first-child),.custom-table th:not(:first-child){text-align:center}.custom-table th{color:#c2c2c2;font-weight:400}.custom-table th:first-child{padding-right:20px}.custom-table tfoot td{border-bottom:none;font-size:150%}.ui-slider{margin:25px 0 15px;height:2px!important}.ui-slider .ui-slider .ui-slider-range{border:1px solid #f8ad47!important;top:-1px!important}.ui-slider .ui-slider .ui-slider-handle{background-color:#f8ad47!important;border:none!important;border-radius:50%;height:12px!important;width:12px!important;top:-6px im!important}@media (max-width:991px){.ui-slider .ui-slider-handle{height:20px!important;width:20px;top:-10px!important}}
+/*!
+ * Bootstrap v4.6.0 (https://getbootstrap.com/)
+ * Copyright 2011-2021 The Bootstrap Authors
+ * Copyright 2011-2021 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ * RTL-ized by Arash Laylazi (https://github.com/PerseusTheGreat)
+ * RTL rev. 1 (https://github.com/PerseusTheGreat/bootstrap-rtl)
+ */
+
+/*!
+ * Bootstrap v4.6.0 (https://getbootstrap.com/)
+ * Copyright 2011-2021 The Bootstrap Authors
+ * Copyright 2011-2021 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ * RTL-ized by Arash Laylazi (https://github.com/PerseusTheGreat)
+ * RTL rev. 1 (https://github.com/PerseusTheGreat/bootstrap-rtl)
+ */.custom-btn,.custom-form-control{color:#868686;border:1px solid #ebebeb;height:38px;transition:all .3s ease}.custom-input-details{border-width:2px;border-radius:3px;height:46px!important;padding:0 16px;font-size:18px;width:98%}.custom-form-control:focus{border-color:#b86d07;box-shadow:0 0 2px 0 #b86d07}.custom-btn-danger:active,.custom-btn-danger:active:focus,.custom-btn-danger:active:hover,.custom-btn-danger:focus,.custom-btn-danger:hover{color:#da0007;border-color:#da0007}.custom-btn-primary2{color:#fff}.custom-btn-primary2:active,.custom-btn-primary2:active:focus,.custom-btn-primary2:active:hover,.custom-btn-primary2:focus,.custom-btn-primary2:hover,.custom-btn-primary2:hover:disabled{border-color:#b86d07;background-color:#b86d07;color:#fff}
 /*!
  * Bootstrap v4.6.0 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
